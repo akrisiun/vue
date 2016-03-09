@@ -1,0 +1,1 @@
+c:\bin\nwjs\nw.exe .
